@@ -1,11 +1,9 @@
 echo '#!/bin/bash
 
 #this is the GPIO pin connected to the lead on switch labeled OUT
-#GPIOpin1=20
 GPIOpin1=23
 
 #this is the GPIO pin connected to the lead on switch labeled IN
-#GPIOpin2=21
 GPIOpin2=24
 
 echo "$GPIOpin1" > /sys/class/gpio/export

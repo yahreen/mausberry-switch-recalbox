@@ -4,7 +4,7 @@
 
 This guide is adapted [from a post](http://blog.recalbox.com/forums/topic/circuit-mausberry-et-recalbox/page/4/#post-16499) by CHB on the blog.recalbox.com forums. Additional shout-outs to [Acris](http://blog.recalbox.com/forums/topic/circuit-mausberry-et-recalbox/page/2/#post-7616) for the initial legwork on the scripts.
 
-Additional setup instructions for the on-off switch available at [Mausberry Circuits](http://mausberry-circuits.myshopify.com/pages/setup).
+Setup instructions for the on-off switch available at [Mausberry Circuits](http://mausberry-circuits.myshopify.com/pages/setup).
 
 ## Setup
 
